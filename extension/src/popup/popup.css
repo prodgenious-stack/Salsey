@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  width: 380px;
+  margin: 0;
+}

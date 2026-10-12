@@ -1,0 +1,9 @@
+# Never upload local secrets or bulky local-only files to Vercel.
+.env*
+.secrets
+*.pem
+*.zip
+.next
+node_modules
+x
+tsconfig.tsbuildinfo
